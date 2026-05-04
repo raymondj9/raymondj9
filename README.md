@@ -2,7 +2,7 @@
 
 **Backend-heavy Full-Stack Engineer | Fintech, APIs & Web3 Systems**
 
-I design and build scalable backend systems that power real-world products — from high-throughput APIs to transaction-driven platforms. I focus on reliability, performance, and clean architecture.
+I design and build scalable backend systems that power real-world products, from high-throughput APIs to transaction-driven platforms. I focus on reliability, performance, and clean architecture.
 
 ---
 
@@ -64,17 +64,10 @@ Systems for handling digital asset transactions and external blockchain interact
 
 ---
 
-## 📈 GitHub Stats
-
-* 2,000+ contributions yearly
-* Consistent open-source and personal project development
-
----
-
 ## 🌍 About Me
 
 * Founder & CEO @ Leadcrescent Technologies
-* Based in Nigeria — working remotely worldwide
+* Working remotely worldwide
 * Passionate about building impactful, scalable products
 
 ---
