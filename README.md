@@ -81,8 +81,8 @@ Systems for handling digital asset transactions and external blockchain interact
 
 ## 📫 Let's Connect
 
-* 🌐 https://jamray.dev
-* 💼 LinkedIn: https://linkedin.com/in/raymond-obeje-306b7b64
+* 🌐 https://iamray.dev
+* 💼 LinkedIn: [https://linkedin.com/in/raymond-obeje-306b7b64](http://linkedin.com/in/raymond-obeje-3aa67664)
 * 📧 [raymondobeje@gmail.com](mailto:raymondobeje@gmail.com)
 
 ---
