@@ -66,7 +66,7 @@ Systems for handling digital asset transactions and external blockchain interact
 
 ## 🌍 About Me
 
-* Founder & CEO @ Leadcrescent Technologies
+* Partner @ Leadcrescent Technologies
 * Working remotely worldwide
 * Passionate about building impactful, scalable products
 
