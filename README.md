@@ -28,7 +28,7 @@ I design and build scalable backend systems that power real-world products, from
 ## 🛠️ Tech Stack
 
 **Languages**
-TypeScript • JavaScript • PHP • Python
+TypeScript • JavaScript • PHP • Python • Rust • Java
 
 **Backend**
 Node.js • Laravel • Express • REST APIs • WebSockets
